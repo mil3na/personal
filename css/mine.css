@@ -89,7 +89,11 @@ header span{
   color: #773D94;
 }
 
-.spotify{
+.spotify a{
   color: #1CB954;
   font-weight: bold;
+}
+
+.spotify a:hover {
+  text-decoration: none;
 }
